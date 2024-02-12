@@ -1,5 +1,5 @@
 const helloWorld = () => {
-  console.log('Hellow, World')
-}
+  console.log('Hellow, World');
+};
 
 helloWorld();
